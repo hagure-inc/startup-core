@@ -1,28 +1,6 @@
-== README
+startup-core-authからDevise,ActiveAdminを抜いた版です。
+ドキュメントはそちらを参照してください。
+https://github.com/hagure-inc/startup-core-auth
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+gemの対応以外の細かい変更はQiitaにまとめました。
+http://qiita.com/tomomomo1217/items/9c57837d0062e858d20f
